@@ -1,0 +1,37 @@
+{
+    "name":"ContentBox Pinterest Embed Widget Module",
+    "version":"1.0.0",
+    "location":"bluewatersolutions/pinterest-plugin#v1.2.6",
+    "author":"Andrew Davis",
+    "homepage":"https://github.com/bluewatersolutions/pinterest-plugin",
+    "documentation":"https://github.com/bluewatersolutions/pinterest-plugin",
+    "repository":{
+        "type":"git",
+        "URL":"https://github.com/bluewatersolutions/pinterest-plugin"
+    },
+    "bugs":"https://github.com/bluewatersolutions/pinterest-plugin/issues",
+    "slug":"pinterest-plugin",
+    "shortDescription":"Customizable Pinterest Embed Widget for Contentbox 3",
+    "instructions":"https://github.com/bluewatersolutions/pinterest-plugin",
+    "type":"contentbox-modules",
+    "keywords":[
+        "Pinterest",
+        "Widget",
+        "Embed",
+        "Timeline",
+        "Social",
+        "Social Media"
+    ],
+    "scripts":{
+        "postVersion":"package set location='bluewatersolutions/pinterest-plugin#v`package version`'",
+        "onRelease":"publish",
+        "postPublish":"!git push origin master && !git push origin master --tags"
+    },
+    "private":false,
+    "license":[
+        {
+            "type":"MIT",
+            "URL":"https://github.com/bluewatersolutions/pinterest-plugin/blob/master/LICENSE"
+        }
+    ]
+}
