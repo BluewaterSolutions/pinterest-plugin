@@ -1,7 +1,7 @@
 {
     "name":"ContentBox Pinterest Embed Widget Module",
-    "version":"1.0.0",
-    "location":"bluewatersolutions/pinterest-plugin#v1.2.6",
+    "version":"1.0.1",
+    "location":"bluewatersolutions/pinterest-plugin#v1.0.1",
     "author":"Andrew Davis",
     "homepage":"https://github.com/bluewatersolutions/pinterest-plugin",
     "documentation":"https://github.com/bluewatersolutions/pinterest-plugin",
