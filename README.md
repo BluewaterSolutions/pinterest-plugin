@@ -1,7 +1,15 @@
 
 # Introduction
  
+Embed Pinterest Boards, Profile and Pins.
 
+## ContentBox Social Media Suite
+This ContentBox Module is part of a Social Media Suite of widgets.  Be sure to check out the following modules.
+
+* [ContentBox Facebook Embed Widget Module ](https://www.forgebox.io/view/facebook-page-plugin)
+* [ContentBox Twitter Embed Widget Module ](https://www.forgebox.io/view/cbcms-BABTwitterEmbed)
+* [ContentBox Pinterest Embed Widget Module ](https://www.forgebox.io/view/pinterest-plugin)
+* [ContentBox Vimeo Embed Widget Module ](https://www.forgebox.io/view/vimeo-plugin)
 
 
 ```
